@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 3937,
+  "expoServerNgrokUrl": "https://ts-vei.harenick.myapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.ts-vei.harenick.myapp.exp.direct",
+  "ngrokPid": 3966,
+  "webpackServerPort": null
+}

@@ -1,0 +1,7 @@
+export PATH="$PATH:/home/ph/Android/Sdk/emulator"
+
+
+emulator -avd Nexus_6_API_28 -read-only   // para rodar o emulador 
+
+
+expo start / para rodar o bundle
